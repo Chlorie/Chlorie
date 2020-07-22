@@ -14,6 +14,8 @@
   </a>
 </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chlorie&show_icons=true&hide_border=true&theme=default"/>
+
 About Myself
 - PhD student at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
 - Researching on **machine learning / data mining**
@@ -21,5 +23,3 @@ About Myself
 - Loves computer language features and quirks (I heard you say "template meta-programming"?)
 - Personal side projects are started at a regular basis but seldom finished :(
 - Really loves games, especially rhythm games (referring to mobile ones, didn't have the chance to play arcade games)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chlorie&show_icons=true&hide_border=true&theme=default"/>
