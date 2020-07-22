@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2 align="center">Hi there, this is Chlorie 👋</h2>
 
-<!--
-**Chlorie/Chlorie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://twitter.com/_Chlorie_">
+  Twitter
+  </a>
+  ·
+  <a href="https://space.bilibili.com/12171816">
+  Bilibili
+  </a>
+  ·
+  <a href="https://chlorie.github.io/ChloroBlog/">
+  Blog
+  </a>
+</p>
 
-Here are some ideas to get you started:
+About Myself
+- PhD student at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
+- Researching on **machine learning / data mining**
+- Novice **C++** / **C#** user, feeling not so great about dynamic typed languages but sometimes has to use them to get jobs done
+- Loves computer language features and quirks (I heard you say "template meta-programming"?)
+- Personal side projects are started at a regular basis but seldom finished :(
+- Really loves games, especially rhythm games (referring to mobile ones, didn't have the chance to play arcade games)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chlorie&show_icons=true&hide_border=true&theme=default"/>
