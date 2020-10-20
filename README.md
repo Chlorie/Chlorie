@@ -17,9 +17,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chlorie&show_icons=true&hide_border=true&theme=default"/>
 
 About Myself
-- PhD student at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
+- **PhD student** at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
 - Researching on **machine learning / data mining**
-- Novice **C++** / **C#** user, feeling not so great about dynamic typed languages but sometimes has to use them to get jobs done
+- Novice programmer, especially **loves the C++ language**, also likes a few other languages like C#, I don't like dynamic typed languages very much *(cough Python cough)* but sometimes has to use them to get jobs done
 - Loves computer language features and quirks (I heard you say "template meta-programming"?)
-- Personal side projects are started at a regular basis but seldom finished 😢
-- Really loves games, especially rhythm games
+- Personal side projects are started at a regular basis ~~(mainly for procrastination)~~ but seldom finished 😢
+- Loves playing games, especially rhythm games!
