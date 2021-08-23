@@ -14,7 +14,10 @@
   </a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chlorie&show_icons=true&hide_border=true&theme=default"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chlorie&show_icons=true&hide_border=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chlorie&layout=compact"/>
+</p>
 
 About Myself
 - **PhD student** at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
