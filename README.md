@@ -8,10 +8,6 @@
   <a href="https://twitter.com/_Chlorie_">
   Twitter
   </a>
-  ·
-  <a href="https://space.bilibili.com/12171816">
-  Bilibili
-  </a>
 </p>
 
 <p align="center">
