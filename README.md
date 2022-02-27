@@ -8,6 +8,10 @@
   <a href="https://twitter.com/_Chlorie_">
   Twitter
   </a>
+  ·
+  <a href="https://www.youtube.com/channel/UCQP3lqrEOKlJUp6Rq5GmzsA">
+  YouTube
+  </a>
 </p>
 
 <p align="center">
@@ -16,9 +20,9 @@
 </p>
 
 About Myself
-- **PhD student** at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
-- Researching on **machine learning / data mining**
-- Novice programmer, especially **loves the C++ language**, also likes a few other languages like C#, I don't like dynamic typed languages very much *(cough Python cough)* but sometimes has to use them to get jobs done
-- Loves computer language features and quirks (I heard you say "template meta-programming"?)
-- Personal side projects are started at a regular basis ~~(mainly for procrastination)~~ but seldom finished 😢
-- Loves playing games, especially rhythm games!
+- **PhD student** at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS).
+- Researching on **machine learning / data mining**.
+- Novice programmer, especially **loves the C++ language**, also likes a few other languages like C#, I don't like dynamic typed languages very much *(cough Python cough)* but sometimes has to use them to get jobs done.
+- Loves computer language features and quirks. (I heard you say "template meta-programming"?)
+- Personal side projects are started at a regular basis ~~(mainly for procrastination)~~ but seldom finished... 😢
+- Loves playing games, especially rhythm games! Also some nice indie games like Celeste.
