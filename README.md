@@ -6,9 +6,10 @@
 </p>
 
 About Myself
-- **Ph.D. student** at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS).
-- Researching on **machine learning & data mining**.
-- Novice programmer, especially **loves the C++ language**, also likes a few other languages like C♯. I don't like dynamically typed languages very much *(cough Python cough)*, but sometimes I have to use them to get jobs done.
-- Loves computer language features and quirks. (I heard you say "template meta-programming"?)
-- Personal side projects are started at a regular basis ~~(mainly for procrastination)~~ but seldom finished... 😢
-- I love playing games, mainly not the AAA kind, and more leaning towards indie games. I like rhythm games (e.g. Arcaea), puzzle games (e.g. Baba is You), and some indies in other genres (e.g. Celeste).
+- Ph.D. in Computer Science on Machine Learning and Data Mining.
+- I like a variety of programming languages:
+  - C++: It provides access to extreme performance while not sacrificing high level constructs or being overly restrictive. I like template meta-programming and want reflection yesterday.
+  - C♯: I like the ecosystem and all the syntax sugar. Discriminated unions when?
+  - Python: This one I'm mostly using at work. I used to absolutely hate it, but now I'm kind of OK with it for its convenience to write simple scripts. Later I realized that the thing I hate is just badly written Python code with no type hints, lots of *"clever tricks"* that circumvents the type checker (like `(get|set)attr`), and passing `dict`s everywhere.
+- I have a lot of short-lived, not even half-finished side projects. One day I'll certainly finish at least one of them 😆
+- I love playing games. Mainly rhythm games (e.g. Arcaea, Deemo, etc.), puzzle games (e.g. Baba is You, 14 Mainsweeper Variants), and some indies in other genres (e.g. Celeste). I'm not that into AAA titles.
